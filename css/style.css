@@ -1,0 +1,129 @@
+    * {
+        box-sizing: border-box;
+    }
+    html {
+        font-family: proxima-nova, helvetica, roboto, sans-serif;
+        font-weight: 100;
+        font-style: normal;
+        color: #505050;
+        overflow: hidden;
+    }
+    .nav {
+        width: 75px;
+    }
+    .nav a {
+        background-color: #fff;
+        display: block;
+        padding: 20px;
+        text-decoration: none;
+    }
+    .nav img {
+        width: 28px;
+    }
+    .login {
+        margin-top: 14em;
+    }
+    h1 {
+        font-weight: 400;
+        font-size: 2em;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    h2 {
+        color: #8E8E8E;
+        font-size: 1.4em;
+        font-weight: 400;
+        margin-top: 0px;
+    }
+    .semi {
+        font-weight: 600;
+    }
+    .login-greet {
+        font-size: 1.5em;
+        font-weight: 600;
+        text-align: center;
+        margin-top: 0px;
+    }
+    .login-form {
+        text-align: center;
+    }
+    .login-form input {
+        padding: 10px;
+        width: 200px;
+        margin-top: 3px;
+        margin-bottom: 15px;
+        border-radius: 7px;
+    }
+    .login-form input[type=submit] {
+        font-family: proxima-nova, sans-serif;
+        font-size: 1.2em;
+        padding: 8px;
+        width: 6em;
+        border-radius: 30px;
+        background-color: #4B456E;
+        color: white;
+    }
+    #wrapper {
+        display: grid;
+        grid-template-columns: 75px 1fr 35vw;
+    }
+    #wrapper-analytics {
+        display: grid;
+        grid-template-columns: 75px 1060px 1fr;
+    }
+    .popup {
+        margin-top: 19em;
+        width: 255px;
+    }
+    .analytics-page {
+        margin-left: 120px;
+        margin-top: 5em;
+    }
+    .analytics-page img {
+        margin-top: 3em;
+        width: 900px;
+    }
+    .about-section {
+        background-image: url("bg.svg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%px;
+        height: 98vh;
+        color: #fff;
+    }
+    .about-section h2 {
+        font-weight: 400;
+        text-align: center;
+        margin-top: 150px;
+    }
+    .about-section p {
+        font-size: 1.1em;
+        line-height: 1.4em;
+        margin: 40px 165px;
+    }
+    .page-header {
+        text-align: left;
+    }
+    .resources-page {
+        margin-left: 120px;
+        margin-top: 4rem;
+        font-size: 1.1em;
+    }
+    .res-cat {
+        margin-bottom: 4px;
+        margin-top: 3.5em;
+        font-size: 1.1em;
+        color: #72596F;
+    }
+    .res-head {
+        text-decoration: underline;
+        margin-bottom: 0px
+    }
+    .res-instr {
+        color: #8e8e8e;
+        margin-top: 3px;
+        margin-bottom: 0px;
+    }
+    .res-det {
+        margin-top: 3px;
+    }

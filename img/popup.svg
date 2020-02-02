@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169" height="185" viewBox="0 0 169 185">
+  <g id="Group_45" data-name="Group 45" transform="translate(-742 -213.5)">
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="169" height="185" transform="translate(742 213.5)" fill="#f5f4f7"/>
+    <text id="_Looks_like_you_ve_taken_in_a_lot_of_negative_content_today._" data-name="     Looks like you’ve taken in a lot of negative content today. " transform="translate(753 229.5)" fill="#4b456e" font-size="14" font-family="MrEavesXLModOT-Reg, Mr Eaves XL Mod OT"><tspan x="0" y="11" xml:space="preserve">     Looks like you’ve taken </tspan><tspan x="0" y="27">in a lot of negative </tspan><tspan x="0" y="43">content today. </tspan></text>
+    <text id="Your_mood_has_decreased_over_the_course_of_today:" data-name="Your mood has decreased over the course of today:" transform="translate(753 280.5)" fill="#4b456e" font-size="14" font-family="MrEavesXLModOT-Reg, Mr Eaves XL Mod OT"><tspan x="0" y="11">Your mood has decreased </tspan><tspan x="0" y="27">over the course of today:</tspan></text>
+    <text id="Take_a_look_at_some_of_our_resources." data-name="Take a look at some of our resources." transform="translate(753 352.5)" fill="#4b456e" font-size="14" font-family="MrEavesXLModOT-Reg, Mr Eaves XL Mod OT"><tspan x="0" y="11">Take a look at some of </tspan><tspan x="0" y="29">our </tspan><tspan y="29" text-decoration="underline">resources</tspan><tspan y="29">.</tspan></text>
+    <g id="Group_37" data-name="Group 37" transform="translate(753 231.995)">
+      <g id="Path_14" data-name="Path 14" fill="none">
+        <path d="M4.5,0A4.5,4.5,0,1,1,0,4.5,4.5,4.5,0,0,1,4.5,0Z" stroke="none"/>
+        <path d="M 4.5 0.8000001907348633 C 2.45980978012085 0.8000001907348633 0.8000001907348633 2.45980978012085 0.8000001907348633 4.5 C 0.8000001907348633 6.540189743041992 2.45980978012085 8.199999809265137 4.5 8.199999809265137 C 6.540189743041992 8.199999809265137 8.199999809265137 6.540189743041992 8.199999809265137 4.5 C 8.199999809265137 2.45980978012085 6.540189743041992 0.8000001907348633 4.5 0.8000001907348633 M 4.5 0 C 6.98528003692627 0 9 2.01471996307373 9 4.5 C 9 6.98528003692627 6.98528003692627 9 4.5 9 C 2.01471996307373 9 0 6.98528003692627 0 4.5 C 0 2.01471996307373 2.01471996307373 0 4.5 0 Z" stroke="none" fill="#4b456e"/>
+      </g>
+      <text id="_" data-name="!" transform="translate(3.5 7.005)" fill="#4b456e" font-size="9" font-family="MrEavesXLModOT-Reg, Mr Eaves XL Mod OT"><tspan x="0" y="0">!</tspan></text>
+    </g>
+    <text id="definitely" transform="translate(861 327.5)" fill="#4b456e" font-size="10" font-family="MrEavesXLModOT-Reg, Mr Eaves XL Mod OT"><tspan x="0" y="8">definitely</tspan></text>
+    <text id="not_at_all" data-name="not at all" transform="translate(753 328.5)" fill="#4b456e" font-size="10" font-family="MrEavesXLModOT-Reg, Mr Eaves XL Mod OT"><tspan x="0" y="8">not at all</tspan></text>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(770 321)" fill="none" stroke="#4b456e" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(877 321)" fill="none" stroke="#4b456e" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <path id="Path_15" data-name="Path 15" d="M1816,1149h103.117" transform="translate(-1041.584 -825.5)" fill="#4b456e" stroke="#4b456e" stroke-width="1"/>
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="3" height="8" rx="1.5" transform="translate(846 319.5)" fill="#4b456e"/>
+  </g>
+</svg>
