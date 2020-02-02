@@ -29,6 +29,9 @@
         text-align: center;
         margin-bottom: 10px;
     }
+    #about-title {
+        color: #fff;
+    }
     h2 {
         color: #8E8E8E;
         font-size: 1.4em;
